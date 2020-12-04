@@ -12,6 +12,9 @@ Skills: HTML/CSS/JAVASCRIPT/PHP/SHELL SCRIPTING/KALI LINUX/PENETRATION TESTING
 - 📫 How to reach me: @anuj9997 
 - ⚡ Fun fact: I love to play Guitar... 
 
+<a href="https://dev.to/imanujsharma99">
+  <i class="fab fa-dev" title="imanujsharma99's DEV Profile"></i>
+</a>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/imanujsharma99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://in.linkedin.com/anuj-sharma-718937128/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100012678727776)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/anuj_sharma999/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/anuj9997)  
 
