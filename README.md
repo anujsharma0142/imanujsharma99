@@ -26,8 +26,3 @@ A final year student is pursuing a Master of Computer Application from Maulana A
 <a href="https://instagram.com/anuj_sharma999" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="anuj_sharma999" height="50" width="50" /></a>
 </p>
 
-<hr>
-
-<p align="center">
-  <img src="https://github.com/imanujsharma99/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
