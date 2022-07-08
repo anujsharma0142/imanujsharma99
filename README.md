@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" />, I'm Anuj Sharma</h1>
+         width="45" /> I'm Anuj Sharma</h1>
 <h5 align="center">
 A final year student is pursuing a Master of Computer Application from Maulana Azad National Institute of Technology Bhopal.
 </h5>
@@ -29,5 +29,5 @@ A final year student is pursuing a Master of Computer Application from Maulana A
 <hr>
 
 <p align="center">
-  <img src="https://github.com/imanujsharma99/imanujsharma99/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/imanujsharma99/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
